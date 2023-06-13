@@ -1,0 +1,22 @@
+{
+  "name": "nric-townshipcode",
+  "version": "1.0.0",
+  "description": "This is Myanmar NRIC townshipcode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waiyankyawlin-007/npm-nric-townshipcode.git"
+  },
+  "keywords": [
+    "Nric"
+  ],
+  "author": "Wai Yan Kyaw Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waiyankyawlin-007/npm-nric-townshipcode/issues"
+  },
+  "homepage": "https://github.com/waiyankyawlin-007/npm-nric-townshipcode#readme"
+}
