@@ -1,16 +1,16 @@
 # nric
 
-[![](https://img.shields.io/npm/v/nric.svg?style=flat)](https://github.com/waiyankyawlin-007/convert-string-camel)
+[![](https://img.shields.io/npm/v/nric.svg?style=flat)](https://github.com/waiyankyawlin-007/nric-townshipcode)
 
-Convert a dash,dot,underscore separated string to camelCase
+Utility to generate Myanmar NRIC Townshipcode
 
 ## Install
 
-`$ npm i convert-string-camel`
+`$ npm i nric-townshipcode`
 
 ## Usage
 
 ```js
-var input = "hello-world";
-var output = toCamelCase(input);
-console.log(output); // Output: helloWorld
+const nricTownship = require('nric-townshipcode')
+
+nricTownship('add region code'); //you can get townshipCode [BaHaNa, PaThaNa, PaThaRa, etc...]
