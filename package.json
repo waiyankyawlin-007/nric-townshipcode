@@ -1,6 +1,6 @@
 {
   "name": "nric-townshipcode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is Myanmar NRIC townshipcode.",
   "main": "index.js",
   "scripts": {
